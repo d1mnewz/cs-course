@@ -1,0 +1,49 @@
+# Syllabus
+
+- Basic Data Structures: Arrays, Stacks, Queues
+  - codechef.com - [Data Structure Tutorial: Array](https://discuss.codechef.com/questions/87915/data-structure-tutorial-array)
+  - cs.cmu.edu - [Arrays](https://www.cs.cmu.edu/~rjsimmon/15122-f14/lec/04-arrays.pdf)
+  - geeksforgeeks.org - [Arrays Data Structure](http://www.geeksforgeeks.org/array-data-structure/)
+  - geeksforgeeks.org - [Stack Data Structure](http://www.geeksforgeeks.org/stack-data-structure/)
+  - geeksforgeeks.org - [Introduction and Array Implementation](http://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
+  - tutorialspoint.com - [Data Structures Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm)
+  - cs.cmu.edu - [Stacks](https://www.cs.cmu.edu/~wlovas/15122-r11/lectures/10-stacks.pdf)
+  - cs.cmu.edu - [Stacks and Queues](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks and Queues/Stacks and Queues.html)
+  - cs.cmu.edu - [Stacks and Queues](https://www.cs.cmu.edu/~rjsimmon/15122-s13/09-queuestack.pdf)
+- Hash Table / Dictionary
+  - [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+- Asymptotic analysis (Big-O notation)
+  - youtube.com - [Time complexity of a computer program](https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
+  - youtube.com - [Big-O notation in 5 minutes - The basics](https://www.youtube.com/watch?v=__vX2sjlpXU)
+  - youtube.com - [Definition Of Big O Notation - Intro to Theoretical Computer Science](https://www.youtube.com/watch?v=i1F_Uu0bYCc)
+  - youtube.com - [Algorithms Lecture 1 -- Introduction to asymptotic notations](https://www.youtube.com/watch?v=aGjL7YXI31Q)
+  - iarcs.org.in - [Measuring the efficiency of algorithms](https://www.iarcs.org.in/inoi/online-study-material/topics/efficiency.php)
+  - interactivepython.org - [Particularly for Big-O notation](http://interactivepython.org/courselib/static/pythonds/AlgorithmAnalysis/toctree.html)
+- Sorting
+  - [khanacademy.org](https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/sorting)
+  - [visualgo.net](https://visualgo.net/en/sorting?slide=1)
+  - [iarcs.org.in](https://www.iarcs.org.in/inoi/online-study-material/topics/sorting.php)
+  - Merge sort
+    - youtube.com - [Merge sort algorithm](https://www.youtube.com/watch?v=TzeBrDU-JaY)
+  - Quick sort
+    - youtube.com - [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ)
+  - Counting sort
+    - geeksforgeeks.org - [Counting Sort](http://www.geeksforgeeks.org/counting-sort/)
+- Linked List
+  - [cs.cmu.edu](http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
+- [Trees](https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/)
+  - Normal tree
+  - Binary tree
+  - traversals: preorder, inorder, postorder, BFS, DFS
+  - Binary search tree
+- Recursion
+  - Stanford lectures on recursion & backtracking:
+    - [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
+    - [Lecture 9 | Programming Abstractions (video)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
+    - [Lecture 10 | Programming Abstractions (video)](https://www.youtube.com/watch?v=NdF1QDTRkck&index=10&list=PLFE6E58F856038C69)
+    - [Lecture 11 | Programming Abstractions (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
+  - when it is appropriate to use it
+  - how is tail recursion better than not?
+    - [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
+    - [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+
